@@ -30,9 +30,10 @@ The containing page should define `--light` and `--dark` CSS custom properties f
 
 ## Usage
 
-<img src="pictures/ViewedImage.png" width="600px" />
-
 ---
+
+
+<img src="pictures/ViewedImage.png" width="600px" />
 
 ```html
 <view-image src="pictures/MyPhoto.jpg" alt="Description" width="20rem"
